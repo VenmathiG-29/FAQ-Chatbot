@@ -25,10 +25,12 @@ Node.js – Backend runtime to handle requests and integrate AI logic.
 
 TensorFlow.js / OpenAI API – For parsing user queries and generating intelligent responses.
 
+MongoDB (optional) – To store unanswered queries and user feedback.
+
+Tailwind CSS (optional) – For styling a modern and responsive frontend.
+
+
 ## Conclusion
 
 This AI-Powered FAQ Chatbot demonstrates the integration of NLP or ML into a practical application for automating FAQ responses. It provides an interactive and intelligent user experience while allowing for continuous improvement through feedback and logging of unanswered queries.
 
-MongoDB (optional) – To store unanswered queries and user feedback.
-
-Tailwind CSS (optional) – For styling a modern and responsive frontend.
